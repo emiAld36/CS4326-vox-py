@@ -1,0 +1,5 @@
+pyttsx3==2.98       # Text-to-speech engine
+vosk==0.3.44        # Speech recognition library
+sounddevice==0.5.1  # Audio capture and playback
+numpy==2.0.2        # Array processing
+RapidFuzz==3.10.1   # Fuzzy string matching
