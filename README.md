@@ -14,23 +14,6 @@ Fuzzy Matching: Ensures commands are interpreted correctly even with minor varia
     Task Categorization: Organize tasks into categories for easier management.
     Accessible Feedback: Clear text-to-speech responses for all interactions.
 
-Requirements
-
-    Python: Version 3.8 or higher
-    Dependencies: Install the required Python libraries using the requirements.txt file.
-    Vosk Model: Download the Vosk model for speech recognition (recommended: vosk-model-en-us-0.22).
-
-Installation
-
-Clone the Repository:
-
-git clone https://github.com/yourusername/vox-pyxis.git
-cd vox-pyxis
-
-Set Up Virtual Environment:
-
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install Dependencies:
 
