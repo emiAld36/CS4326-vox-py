@@ -8,8 +8,8 @@ Vox Pyxis is an exploration of accessibility features in development more specif
 
 Features
 
-    Voice-Operated Task Management: Add, view, update, and delete tasks using voice commands.
-    Fuzzy Matching: Ensures commands are interpreted correctly even with minor variations.
+Voice-Operated Task Management: Add, view, update, and delete tasks using voice commands.
+Fuzzy Matching: Ensures commands are interpreted correctly even with minor variations.
     Customizable Voice: Choose from a list of voices during initial setup.
     Task Categorization: Organize tasks into categories for easier management.
     Accessible Feedback: Clear text-to-speech responses for all interactions.
@@ -22,7 +22,7 @@ Requirements
 
 Installation
 
-    Clone the Repository:
+Clone the Repository:
 
 git clone https://github.com/yourusername/vox-pyxis.git
 cd vox-pyxis
