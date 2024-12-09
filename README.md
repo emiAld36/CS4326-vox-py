@@ -15,7 +15,7 @@ Fuzzy Matching: Ensures commands are interpreted correctly even with minor varia
     Accessible Feedback: Clear text-to-speech responses for all interactions.
 
 
-Install Dependencies:
+Install Dependencies: (built with python 3.9.6)
 
     pip install -r requirements.txt
 
