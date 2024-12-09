@@ -20,7 +20,8 @@ Install Dependencies:
     pip install -r requirements.txt
 
     Download the Vosk Model:
-        Download the model from Vosk GitHub (recommended: vosk-model-en-us-0.22).
+        Download the model from Vosk
+        https://alphacephei.com/vosk/models (recommended: vosk-model-en-us-0.22).
         Extract the model and place it in the project directory. Ensure the path in the MODEL_PATH variable of vox_main.py is correct.
 
 Usage
