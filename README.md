@@ -21,7 +21,8 @@ Install Dependencies:
 
     Download the Vosk Model:
         Download the model from Vosk
-        https://alphacephei.com/vosk/models (recommended: vosk-model-en-us-0.22).
+        https://alphacephei.com/vosk/models (recommended: vosk-model-en-us-0.22 HOWEVER IS A LARGE FILE >1gb
+        USE vosk-model-small-en-us-0.15 for smaller file 40M
         Extract the model and place it in the project directory. Ensure the path in the MODEL_PATH variable of vox_main.py is correct.
 
 Usage
