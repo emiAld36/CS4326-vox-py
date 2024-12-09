@@ -4,6 +4,7 @@ Overview
 
 Vox Pyxis is an exploration of accessibility features in development more specifically voice recognition and TTS for the visually impaired. The application works with voice recognition, text-to-speech, and a SQLite database to allow users to create, view, update, and delete tasks.
 
+![voxDemo](https://github.com/user-attachments/assets/83ed7ac6-4080-4dbf-9f6b-06e0ae2e69dc)
 
 
 Features
